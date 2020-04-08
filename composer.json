@@ -20,5 +20,10 @@
       "psr-4": {
          "MyobPhpSdk\\": "src/MyobPhpSdk/"
       }
-   }
+   },
+    "config": {
+        "platform": {
+            "php": "7.2"
+        }
+    }
 }
