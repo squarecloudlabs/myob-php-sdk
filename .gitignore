@@ -1,0 +1,6 @@
+.env
+vendor
+.idea
+.env.*\
+build
+.php_cs.cache
