@@ -10,6 +10,7 @@
         }
     ],
     "require": {
+        "php": "^7.2",
         "illuminate/http": "^7.5",
         "ramsey/uuid": "^4.0"
     },
@@ -20,10 +21,5 @@
       "psr-4": {
          "MyobPhpSdk\\": "src/MyobPhpSdk/"
       }
-   },
-    "config": {
-        "platform": {
-            "php": "7.2"
-        }
-    }
+   }
 }
